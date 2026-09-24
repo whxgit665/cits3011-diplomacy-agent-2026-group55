@@ -1,0 +1,442 @@
+[
+  {
+    "variant": "base",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 0,
+    "win_rate": 0.0,
+    "win_95_wilson": [
+      0.0,
+      0.35433884297520657
+    ],
+    "mean_centres": 9.428571428571429,
+    "sd_centres": 1.8126539343499315,
+    "max_action_seconds": 0.02442241701646708,
+    "p95_action_seconds": 0.01010074999067001,
+    "max_lifecycle_seconds": 0.02442241701646708,
+    "max_worker_mb": 82.703125,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 7,
+        "wins": 0
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 10,
+        "wins": 0
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 10,
+        "wins": 0
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 12,
+        "wins": 0
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 11,
+        "wins": 0
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      }
+    }
+  },
+  {
+    "variant": "coordination",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 7,
+    "win_rate": 1.0,
+    "win_95_wilson": [
+      0.6456611570247934,
+      1.0
+    ],
+    "mean_centres": 18,
+    "sd_centres": 0.0,
+    "max_action_seconds": 0.047492167010204867,
+    "p95_action_seconds": 0.031430708011612296,
+    "max_lifecycle_seconds": 0.047492167010204867,
+    "max_worker_mb": 88.921875,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      }
+    }
+  },
+  {
+    "variant": "coverage",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 0,
+    "win_rate": 0.0,
+    "win_95_wilson": [
+      0.0,
+      0.35433884297520657
+    ],
+    "mean_centres": 12.285714285714286,
+    "sd_centres": 3.039423504234847,
+    "max_action_seconds": 0.050432249990990385,
+    "p95_action_seconds": 0.04521174999536015,
+    "max_lifecycle_seconds": 0.050432249990990385,
+    "max_worker_mb": 88.671875,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 13,
+        "wins": 0
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 13,
+        "wins": 0
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 14,
+        "wins": 0
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 15,
+        "wins": 0
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 15,
+        "wins": 0
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      }
+    }
+  },
+  {
+    "variant": "full",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 6,
+    "win_rate": 0.8571428571428571,
+    "win_95_wilson": [
+      0.48686549668097007,
+      0.9743210440510253
+    ],
+    "mean_centres": 17.857142857142858,
+    "sd_centres": 0.37796447300922725,
+    "max_action_seconds": 0.0993291669874452,
+    "p95_action_seconds": 0.08370066698989831,
+    "max_lifecycle_seconds": 0.0993291669874452,
+    "max_worker_mb": 90.0,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 17,
+        "wins": 0
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      }
+    }
+  },
+  {
+    "variant": "no_coordination",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 0,
+    "win_rate": 0.0,
+    "win_95_wilson": [
+      0.0,
+      0.35433884297520657
+    ],
+    "mean_centres": 13.428571428571429,
+    "sd_centres": 2.63673679998231,
+    "max_action_seconds": 0.07843066699570045,
+    "p95_action_seconds": 0.05867495798156597,
+    "max_lifecycle_seconds": 0.07843066699570045,
+    "max_worker_mb": 90.0,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 13,
+        "wins": 0
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 13,
+        "wins": 0
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 14,
+        "wins": 0
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 15,
+        "wins": 0
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 16,
+        "wins": 0
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 15,
+        "wins": 0
+      }
+    }
+  },
+  {
+    "variant": "no_coverage",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 7,
+    "win_rate": 1.0,
+    "win_95_wilson": [
+      0.6456611570247934,
+      1.0
+    ],
+    "mean_centres": 18,
+    "sd_centres": 0.0,
+    "max_action_seconds": 0.0581052910129074,
+    "p95_action_seconds": 0.046151499991538,
+    "max_lifecycle_seconds": 0.0581052910129074,
+    "max_worker_mb": 89.1875,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      }
+    }
+  },
+  {
+    "variant": "no_risk",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 7,
+    "win_rate": 1.0,
+    "win_95_wilson": [
+      0.6456611570247934,
+      1.0
+    ],
+    "mean_centres": 18,
+    "sd_centres": 0.0,
+    "max_action_seconds": 0.07465041600516997,
+    "p95_action_seconds": 0.06264016701607034,
+    "max_lifecycle_seconds": 0.07465041600516997,
+    "max_worker_mb": 90.0,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      }
+    }
+  },
+  {
+    "variant": "risk",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 0,
+    "win_rate": 0.0,
+    "win_95_wilson": [
+      0.0,
+      0.35433884297520657
+    ],
+    "mean_centres": 9.428571428571429,
+    "sd_centres": 1.8126539343499315,
+    "max_action_seconds": 0.021514209016459063,
+    "p95_action_seconds": 0.018787375011015683,
+    "max_lifecycle_seconds": 0.026775540987728164,
+    "max_worker_mb": 89.15625,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 7,
+        "wins": 0
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 10,
+        "wins": 0
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 10,
+        "wins": 0
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 12,
+        "wins": 0
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 11,
+        "wins": 0
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 8,
+        "wins": 0
+      }
+    }
+  }
+]

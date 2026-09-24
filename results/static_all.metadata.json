@@ -1,0 +1,20 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "platform": "macOS-26.6.2-arm64-arm-64bit",
+  "arguments": {
+    "checks": false,
+    "variants": [
+      "all"
+    ],
+    "scenarios": [
+      1
+    ],
+    "repeats": 1,
+    "seed": 1000,
+    "workers": 4,
+    "output": "results/static_all"
+  },
+  "hash_seed": "0",
+  "agent_sha256": "4942a46bd0358dcb7d5f3e42b62ed118d04e57f5f4e9411ebaa96077bd7f7657",
+  "note": "Scenarios 1 and 2 only; no access to official Hidden Agent or tournament."
+}

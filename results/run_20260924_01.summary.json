@@ -1,0 +1,112 @@
+[
+  {
+    "variant": "no_coverage",
+    "scenario": 1,
+    "games": 7,
+    "errors": 0,
+    "wins": 7,
+    "win_rate": 1.0,
+    "win_95_wilson": [
+      0.6456611570247934,
+      1.0
+    ],
+    "mean_centres": 18,
+    "sd_centres": 0.0,
+    "max_action_seconds": 0.04022324999095872,
+    "p95_action_seconds": 0.03292045899434015,
+    "max_lifecycle_seconds": 0.04022324999095872,
+    "max_worker_mb": 80.3125,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      }
+    }
+  },
+  {
+    "variant": "no_coverage",
+    "scenario": 2,
+    "games": 7,
+    "errors": 0,
+    "wins": 6,
+    "win_rate": 0.8571428571428571,
+    "win_95_wilson": [
+      0.48686549668097007,
+      0.9743210440510253
+    ],
+    "mean_centres": 15.571428571428571,
+    "sd_centres": 6.425396041156863,
+    "max_action_seconds": 0.05521066699293442,
+    "p95_action_seconds": 0.03489212499698624,
+    "max_lifecycle_seconds": 0.05521066699293442,
+    "max_worker_mb": 86.625,
+    "per_power": {
+      "AUSTRIA": {
+        "games": 1,
+        "mean_centres": 1,
+        "wins": 0
+      },
+      "ENGLAND": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "FRANCE": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "GERMANY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "ITALY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "RUSSIA": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      },
+      "TURKEY": {
+        "games": 1,
+        "mean_centres": 18,
+        "wins": 1
+      }
+    }
+  }
+]

@@ -1,0 +1,2 @@
+variant,scenario,games,errors,wins,win_rate,mean_centres,sd_centres,max_action_seconds,p95_action_seconds,max_lifecycle_seconds,max_worker_mb
+no_coverage,2,70,0,58,0.8285714285714286,16.7,3.584790738339012,0.08088762499392033,0.03639133300748654,0.08088762499392033,92.890625
